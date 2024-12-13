@@ -14,9 +14,9 @@ Welcome to the repository for the tutorial on Support Vector Machines (SVMs), fo
 
 ## Repository Structure
 
-```plaintext
+```
 ├── tutorial.pdf            # The complete tutorial in PDF format.
-├── svm_tutorial.ipynb      # Jupyter Notebook containing all the code.
+├── ML_Assignment_23035205.ipynb # Jupyter Notebook containing all the code.
 ├── results/                # Folder containing decision boundary plots.
 ├── README.md               # This file.
 ├── LICENSE                 # Open-source license (MIT).
@@ -35,7 +35,7 @@ Ensure you have access to Google Colab and an internet connection. The required 
 ### Steps
 
 1. Open the notebook in Google Colab:
-   - Download the `svm_tutorial.ipynb` file from this repository.
+   - Download the ML_Assignment_23035205.ipynb` file from this repository.
    - Upload it to your Google Drive.
    - Open it with Google Colab.
 
