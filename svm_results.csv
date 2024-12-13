@@ -1,0 +1,7 @@
+Dataset,Kernel,Accuracy
+Moons Dataset,linear,0.9
+Blobs Dataset,linear,1.0
+Moons Dataset,poly,0.9111111111111111
+Blobs Dataset,poly,1.0
+Moons Dataset,rbf,0.9666666666666667
+Blobs Dataset,rbf,1.0
